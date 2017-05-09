@@ -1,4 +1,4 @@
-# Seasonal Sales
+# Seasonal Sales - COMPLETE!
 
 ## Setup
 
